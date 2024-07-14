@@ -1,5 +1,4 @@
 # OCD.SQL
-Comprehensive Analysis of OCD Patient Data: Demographics, Diagnoses, and Symptom Severity
 Summary Insights:
 Gender Distribution: The dataset includes a breakdown of patients by gender, showing counts and percentages, as well as average Y-BOCS scores for obsessions.
 Ethnicity Distribution: Patient counts and average obsession severity scores are provided for each ethnic group, helping to understand demographic patterns.
